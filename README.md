@@ -53,5 +53,5 @@ $ echo "Bash and shell scripts!"
 
 ## 🗣️ Where you can reach me...
 - email: jacoli1023@gmail.com
-- linkedin: www.linkedin.com/in/jacoli
-- instagram: jacoli1023
+- [linkedin](www.linkedin.com/in/jacoli)
+- [instagram](https://www.instagram.com/jacoli1023/)
