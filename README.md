@@ -1,57 +1,54 @@
-<h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">A self-taught programmer, just learning as I go.</h3>
+# Hi, I'm Jacob 👋
 
-## 💬 Ask me about...
-- self-hosting
-- command-line tools
-- computer programming patterns
-<details>
+**Self-taught software developer.** I run shifts at an independent coffee shop in Dallas and teach myself computer science in the hours around them.
 
-<summary>languages I know</summary>
+I don't collect tutorials. I pick a concept, find the gap, and build something with it until I actually understand it.
 
-```c++
-std::cout << "C++!" << std::endl;
-```
-```java
-System.out.println("Java!");
-```
-```scheme
-(display "Scheme!")
-```
-```bash
-$ echo "Bash and shell scripts!"
-```
-</details>
+---
 
-## 🧑‍🎓 What I'm learning...
-- version control systems (git)
-- security and cryptography
-- GNU, linux, open-source, and other free software principles
-- working through Structure and Interpretation of Computer Programs by Gerald Jay Sussman, Hal Abelson, and Julie Sussman
-<details>
+## 🔨 What I'm building
 
-<summary>languages I wish to learn</summary>
+**[la-liga-lebowski](https://github.com/Jacoli1023/la-liga-lebowski)** — a fantasy football league manager implementing a custom ruleset, built end-to-end in **TypeScript / Node.js** on **PostgreSQL**. No template, no course, no team. It's where everything I study goes to get tested.
 
-- Go
-- rust
-- python
-- SQL
-</details>
+*Currently: calls the Sleeper API and stores NFL player data into a database. Connected to HTTP server and manages basic contract cap calculations.*
 
-## 🧗 Hobbies...
-- self-learning
-- journaling 🖋️
-- self-improvement
-- rock climbing
-- reading 📚
-- specialty coffee crafting ☕
+---
 
-## 💻 Future projects...
-- create a homelab and self-host my own home server
-- fantasy football team manager app
-- password manager
+## 📚 How I learn
 
-## 🗣️ Where you can reach me...
-- email: jacoli1023@gmail.com
-- [linkedin](www.linkedin.com/in/jacoli)
-- [instagram](https://www.instagram.com/jacoli1023/)
+Since 2024 I've been working through a self-directed curriculum instead of a degree program:
+
+- **[Teach Yourself CS](https://teachyourselfcs.com/)** for the theory spine — currently deep in **SICP** ([solutions here](https://github.com/Jacoli1023/sicp-solutions))
+- **[MIT's Missing Semester](https://missing.csail.mit.edu/)** for the things nobody teaches you ([exercises here](https://github.com/Jacoli1023/MIT-missing-semester-exercises)) — shell, tooling, version control, the stuff I got dropped into cold in college
+- **[roadmap.sh](https://roadmap.sh/)** and primary documentation to close the gaps I find myself
+- **Claude Code** as a daily pair programmer — scoping, debugging, and pushing back on my own approach, while checking its output against the docs rather than trusting it blind
+
+---
+
+## 🛠️ Working in
+
+**Languages** — Python · JavaScript / TypeScript · C++ · Scheme
+
+**Stack & tools** — Node.js · PostgreSQL · Git · Linux · Bash · Vim ([dotfiles](https://github.com/Jacoli1023/dotfiles))
+
+**Next up** — Go, Rust, and a self-hosted homelab
+
+---
+
+## ✍️ Writing
+
+I write **[Zen in the Art of Programming](https://jacoli.substack.com/)** — an open record of the learning. Computer science, but also philosophy, psychology, and how understanding actually gets made. Mostly I write to find out what I think.
+
+---
+
+## 🧗 Otherwise
+
+Rock climbing · specialty coffee · reading · journaling
+
+---
+
+## 📫 Reach me
+
+- **Email** — [jacoli1023@gmail.com](mailto:jacoli1023@gmail.com)
+- **LinkedIn** — [in/jacoli](https://www.linkedin.com/in/jacoli)
+- **Substack** — [Zen in the Art of Programming](https://jacoli.substack.com/)
